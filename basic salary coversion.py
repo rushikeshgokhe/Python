@@ -1,0 +1,16 @@
+Bs=int(input("Enter value of Bs:"))
+print("Basic Salary=",Bs)
+DA=(Bs*10)/100
+print("DA=",DA)
+TA=(Bs*7)/100
+print("TA=",TA)
+HRA=(Bs*12)/100
+print("HRA=",HRA)
+Gross=Bs+DA+TA+HRA
+print("Gross salary=",Gross)
+PF=(15*Gross)/100
+print("PF=",PF)
+Tax=(18*Gross)/100
+print("Tax=",Tax)
+Net=Gross-PF-Tax
+print("NET Salary=",Net)
