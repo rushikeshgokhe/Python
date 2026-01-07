@@ -123,32 +123,7 @@ Invalid inputs are rejected with helpful error messages.
 * Data encryption
 * Backup & restore functionality
 
----
 
-## 👨‍💻 Author
 
-**Rushikesh Gokhe**
-Electrical Engineering Student
-Python & Embedded Systems Enthusiast
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
-
----
-
-⭐ If you found this project useful, **give it a star on GitHub!**
-
----
-
-If you want, I can also:
-
-* Add **screenshots section**
-* Create a **LICENSE file**
-* Make this README more **resume-oriented**
-* Convert it into a **project report format**
-
-Just tell me 👍
 
