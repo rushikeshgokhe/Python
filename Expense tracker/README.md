@@ -2,14 +2,17 @@
 
 
 
- Expense Tracker (Python CLI Application)
+
+
+
+# 📊 Expense Tracker (Python CLI Application)
 
 A simple **command-line based Expense Tracker** built using **pure Python (standard library only)**.
 The application helps users manage daily expenses efficiently by storing data in a CSV file.
 
+---
 
-
- Features
+## 🚀 Features
 
 ✔ Store expenses in a CSV file (`expenses.csv`)
 ✔ Add, view, edit, and delete expenses using **unique IDs**
@@ -23,8 +26,9 @@ The application helps users manage daily expenses efficiently by storing data in
   ✔ Single-file implementation
   ✔ No external libraries required
 
+---
 
- Technologies Used
+## 🛠️ Technologies Used
 
 * **Python 3**
 * `csv`
@@ -147,3 +151,4 @@ If you want, I can also:
 * Convert it into a **project report format**
 
 Just tell me 👍
+
